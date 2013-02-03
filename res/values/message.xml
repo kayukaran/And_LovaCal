@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="message_1_1">
+        <item>45%</item>
+        <item>A combination of number 1 with number 1 is very beneficial for business but it is often not as good for personal relationships.</item>
+        <item>Batticaloa</item>
+        <item>The city is nestled in the lush greenery where landscape is surrounded by mountains offering a majestic vie during sunrise.</item>
+    </string-array>
+    
+    <string-array name="message_1_2">
+        <item>75%</item>
+        <item>A relationship with a combination of these numbers is always preferable and good.</item>
+        <item>Colombo</item>
+        <item>It is the commercial capital of the country.</item>
+    </string-array>
+    
+    <string-array name="message_1_3">
+        <item>40%</item>
+        <item>The problems that arise with a combination of number 1 and number 3 are that people can be egoistic and self-centered.</item>
+        <item>Adams Peak </item>
+        <item>The name Samanala Kanda mean Butterfly Mountain.</item>
+    </string-array>
+    
+    <string-array name="message_1_4">
+        <item>55%</item>
+        <item>A relationship based on the combination of these two numbers has opposing but complementary qualities.</item>
+        <item>Batticaloa</item>
+        <item>The city is nestled in the lush greenery where landscape is surrounded by mountains offering a majestic vie during sunrise.</item>
+    </string-array>
+    
+    <string-array name="message_1_5">
+        <item>65%</item>
+        <item>Both of the people in this relationship will like to have freedom.</item>
+        <item>Dambulla</item>
+        <item>The climate of this place is moderate and can be visited at any time of the year.</item>
+    </string-array>
+    
+    <string-array name="message_1_6">
+        <item>80%</item>
+        <item>These two people are capable of great prosperity as long as they are together.</item>
+        <item>Bentota</item>
+        <item>Bentota is a coastal city located in the Southern Province.</item>
+    </string-array>
+    
+    <string-array name="message_1_7">
+        <item>90%</item>
+        <item>This match may also result in a life-long friendship.</item>
+        <item>Nuwara Eliya</item>
+        <item>It is a mountain station at 1,868 m (6,128 ft) of altitude, in a splendid landscape.</item>
+    </string-array>
+    
+    <string-array name="message_1_8">
+        <item>55%</item>
+        <item>This combination is actually a perfect mix of love and hate.</item>
+        <item>Batticaloa</item>
+        <item>The city is nestled in the lush greenery where landscape is surrounded by mountains offering a majestic vie during sunrise.</item>
+    </string-array>
+    
+    <string-array name="message_1_9">
+        <item>75%</item>
+        <item>This association makes a great relationship.</item>
+        <item>Colombo</item>
+        <item>It is the commercial capital of the country.</item>
+    </string-array>
+    
+    <string-array name="message_2_1">
+        <item>80%</item>
+        <item>A relationship with a combination of these numbers is always preferable and good.</item>
+        <item>Bentota</item>
+        <item>Bentota is a coastal city located in the Southern Province.</item>
+    </string-array>
+    
+    <string-array name="message_2_2">
+        <item>85%</item>
+        <item>Both partners are the same in this combination.</item>
+        <item>Hikkaduwa</item>
+        <item>A  surfer town with its sandy beaches, sea-side resorts and discos.</item>
+    </string-array>
+    
+     <string-array name="message_2_3">
+        <item>90%</item>
+        <item>Usually have a good humor and chemistry in the relationship.</item>
+        <item>Nuwara Eliya</item>
+        <item>It is a mountain station at 1,868 m (6,128 ft) of altitude, in a splendid landscape.</item>
+    </string-array>
+    
+      <string-array name="message_2_4">
+        <item>95%</item>
+        <item>This association is good for a relationship and it helps people to live their live peacefully.</item>
+        <item>Beruwela</item>
+        <item>It is most popular for its golden beach that stretches a mile and some world-class hotels.</item>
+    </string-array>
+    
+       <string-array name="message_2_5">
+        <item>90%</item>
+        <item>The chemistry in this relationship has to be very strong so that the opposing natures do not collide with each other.</item>
+        <item>Nuwara Eliya</item>
+        <item>It is a mountain station at 1,868 m (6,128 ft) of altitude, in a splendid landscape.</item>
+    </string-array>
+    
+        <string-array name="message_2_6">
+        <item>80%</item>
+        <item>Both these people should be understanding and should watch their decisions and behaviour.</item>
+        <item>Bentota</item>
+        <item>Bentota is a coastal city located in the Southern Province.</item>
+    </string-array>
+    
+         <string-array name="message_2_7">
+        <item>75%</item>
+        <item>This association is believed to be very fruitful.</item>
+        <item>Colombo</item>
+        <item>It is the commercial capital of the country.</item>
+    </string-array>
+    
+        <string-array name="message_2_8">
+        <item>80%</item>
+        <item>It is believed that this is one of the most compatible love relationships according to numerology.</item>
+        <item>Bentota</item>
+        <item>Bentota is a coastal city located in the Southern Province.</item>
+    </string-array>
+    
+         <string-array name="message_2_9">
+        <item>90%</item>
+        <item>These two numbers act as two bodies with one soul when in a relationship</item>
+        <item>Nuwara Eliya</item>
+        <item>It is a mountain station at 1,868 m (6,128 ft) of altitude, in a splendid landscape.</item>
+    </string-array>
+    
+         <string-array name="message_3_1">
+        <item>35%</item>
+        <item>The problems that arise with a combination of number 1 and number 3 are that people can be egoistic and self-centered.</item>
+        <item>Jaffna</item>
+        <item>Thus with a cultural heritage city this city also has some of the significant historical sites that are worth visiting.</item>
+    </string-array>
+    
+         <string-array name="message_3_2">
+        <item>80%</item>
+        <item>Usually have a good humor and chemistry in the relationship.</item>
+        <item>Bentota</item>
+        <item>Bentota is a coastal city located in the Southern Province.</item>
+    </string-array>
+    
+         
+         <string-array name="message_3_3">
+        <item>75%</item>
+        <item>These numbers should be understanding and should give freedom to one another.</item>
+        <item>Colombo</item>
+        <item>It is the commercial capital of the country.</item>
+    </string-array>
+    
+         
+         <string-array name="message_3_4">
+        <item>40%</item>
+        <item>Without proper understanding, this relationship will also face problems like any other.</item>
+        <item>Kurunegala</item>
+        <item>Close to this city there are historical sites that are worth watching and reflect the past of this place.</item>
+    </string-array>
+    
+         
+         <string-array name="message_3_5">
+        <item>70%</item>
+        <item>The two people will find each other very interesting and will be able to entertain each other forever.</item>
+        <item>Kandy</item>
+        <item>It is located in the center of the country amongst the hills of the Kandy Valley.</item>
+    </string-array>
+    
+         
+         <string-array name="message_3_6">
+        <item>80%</item>
+        <item>The chemistry is usually very strong and durable.</item>
+        <item>Bentota</item>
+        <item>Bentota is a coastal city located in the Southern Province.</item>
+    </string-array>
+    
+         
+         <string-array name="message_3_7">
+        <item>40%</item>
+        <item>The two numbers are exactly opposite and some believe that they are incompatible.</item>
+        <item>Kurunegala</item>
+        <item>Close to this city there are historical sites that are worth watching and reflect the past of this place.</item>
+    </string-array>
+    
+         
+         <string-array name="message_3_8">
+        <item>55%</item>
+        <item>This association usually requires an extra effort from both sides in order to live in harmony.</item>
+        <item>Batticaloa</item>
+        <item>The city is nestled in the lush greenery where landscape is surrounded by mountains offering a majestic vie during sunrise.</item>
+    </string-array>
+    
+         
+        <string-array name="message_3_9">
+        <item>80%</item>
+        <item>Their emotions and passions are well-matched with each other.</item>
+        <item>Bentota</item>
+        <item>Bentota is a coastal city located in the Southern Province.</item>
+    </string-array>
+    
+        <string-array name="message_4_1">
+        <item>45%</item>
+        <item>In a relationship like this differences may arise due to the different personalities.</item>
+        <item>Batticaloa</item>
+        <item>The city is nestled in the lush greenery where landscape is surrounded by mountains offering a majestic vie during sunrise.</item>
+    </string-array>
+    
+        <string-array name="message_4_2">
+        <item>80%</item>
+        <item>This is an excellent combination. </item>
+        <item>Bentota</item>
+        <item>Bentota is a coastal city located in the Southern Province.</item>
+    </string-array>
+    
+        <string-array name="message_4_3">
+        <item>35%</item>
+        <item>This is because most of the characteristics will be opposite and dissimilar.</item>
+        <item>Jaffna</item>
+        <item>Thus with a cultural heritage city this city also has some of the significant historical sites that are worth visiting.</item>
+    </string-array>
+    
+        <string-array name="message_4_4">
+        <item>75%</item>
+        <item>Both of these people share the same values and goals in life.</item>
+        <item>Colombo</item>
+        <item>It is the commercial capital of the country.</item>
+    </string-array>
+    
+        <string-array name="message_4_5">
+        <item>45%</item>
+        <item>The characteristics of both people will be very different.</item>
+        <item>Batticaloa</item>
+        <item>The city is nestled in the lush greenery where landscape is surrounded by mountains offering a majestic vie during sunrise.</item>
+    </string-array>
+    
+        <string-array name="message_4_6">
+        <item>85%</item>
+        <item>This relationship is built on mutual trust and values. It is a solid relationship.</item>
+        <item>Hikkaduwa</item>
+        <item>A  surfer town with its sandy beaches, sea-side resorts and discos.</item>
+    </string-array>
+    
+        <string-array name="message_4_7">
+        <item>70%</item>
+        <item>Both these people are also very well-coordinated.</item>
+        <item>Kandy</item>
+        <item>It is located in the center of the country amongst the hills of the Kandy Valley.</item>
+    </string-array>
+    
+        <string-array name="message_4_8">
+        <item>70%</item>
+        <item>Both of these have absolutely the same nature.</item>
+        <item>Kandy</item>
+        <item>It is located in the center of the country amongst the hills of the Kandy Valley.</item>
+    </string-array>
+    
+        <string-array name="message_4_9">
+        <item>55%</item>
+        <item>Both the numbers are good in their own ways.</item>
+        <item>Batticaloa</item>
+        <item>The city is nestled in the lush greenery where landscape is surrounded by mountains offering a majestic vie during sunrise.</item>
+    </string-array>
+    
+        <string-array name="message_5_1">
+        <item>85%</item>
+        <item>This relationship can be vibrant and lively sometimes.</item>
+        <item>Hikkaduwa</item>
+        <item>A  surfer town with its sandy beaches, sea-side resorts and discos.</item>
+    </string-array>
+    
+        <string-array name="message_5_2">
+        <item>85%</item>
+        <item>This can be a great relationship with proper understanding.</item>
+        <item>Hikkaduwa</item>
+        <item>A  surfer town with its sandy beaches, sea-side resorts and discos.</item>
+    </string-array>
+    
+        <string-array name="message_5_3">
+        <item>80%</item>
+        <item>This association is considered to be one of the best combinations which never faces a boring time in life.</item>
+        <item>Bentota</item>
+        <item>Bentota is a coastal city located in the Southern Province.</item>
+    </string-array>
+    
+        <string-array name="message_5_4">
+        <item>45%</item>
+        <item>The characteristics of both people will be very different.</item>
+        <item>Batticaloa</item>
+        <item>The city is nestled in the lush greenery where landscape is surrounded by mountains offering a majestic vie during sunrise.</item>
+    </string-array>
+    
+        <string-array name="message_5_5">
+        <item>55%</item>
+        <item>Both these people should understand each other and try to maintain some distance in order to have a happy married life.</item>
+        <item>Batticaloa</item>
+        <item>The city is nestled in the lush greenery where landscape is surrounded by mountains offering a majestic vie during sunrise.</item>
+    </string-array>
+    
+        <string-array name="message_5_6">
+        <item>70%</item>
+        <item>Both the people in this association need to make compromises for success in this relationship.</item>
+        <item>Kandy</item>
+        <item>It is located in the center of the country amongst the hills of the Kandy Valley.</item>
+    </string-array>
+    
+        <string-array name="message_5_7">
+        <item>70%</item>
+        <item>The best possible relationship will be as friends.</item>
+        <item>Kandy</item>
+        <item>It is located in the center of the country amongst the hills of the Kandy Valley.</item>
+    </string-array>
+    
+        <string-array name="message_5_8">
+        <item>80%</item>
+        <item>This combination brings out the best in each other.</item>
+        <item>Bentota</item>
+        <item>Bentota is a coastal city located in the Southern Province.</item>
+    </string-array>
+    
+        <string-array name="message_5_9">
+        <item>60%</item>
+        <item>This is a relationship between two who may find it hard to work the relationship into their busy schedules.</item>
+        <item>Galle</item>
+        <item> Galle is declared as World Heritage City by the UNESCO and is surrounded by beaches.</item>
+    </string-array>
+    
+        <string-array name="message_6_1">
+        <item>75%</item>
+        <item>These two people are capable of great prosperity as long as they are together.</item>
+        <item>Colombo</item>
+        <item>It is the commercial capital of the country.</item>
+    </string-array>
+    
+        <string-array name="message_6_2">
+        <item>70%</item>
+        <item>Both these people should be understanding and should watch their decisions and behaviour.</item>
+        <item>Kandy</item>
+        <item>It is located in the center of the country amongst the hills of the Kandy Valley.</item>
+    </string-array>
+    
+        <string-array name="message_6_3">
+        <item>75%</item>
+        <item>The chemistry is usually very strong and durable.</item>
+        <item>Colombo</item>
+        <item>It is the commercial capital of the country.</item>
+    </string-array>
+    
+        <string-array name="message_6_4">
+        <item>90%</item>
+        <item>This relationship is built on mutual trust and values.</item>
+        <item>Nuwara Eliya</item>
+        <item>It is a mountain station at 1,868 m (6,128 ft) of altitude, in a splendid landscape.</item>
+    </string-array>
+    
+        <string-array name="message_6_5">
+        <item>60%</item>
+        <item>Both the people in this association need to make compromises for success in this relationship.</item>
+        <item>Galle</item>
+        <item> Galle is declared as World Heritage City by the UNESCO and is surrounded by beaches.</item>
+    </string-array>
+    
+        <string-array name="message_6_6">
+        <item>85%</item>
+        <item>Both the people will be completely balanced.</item>
+        <item>Hikkaduwa</item>
+        <item>A  surfer town with its sandy beaches, sea-side resorts and discos.</item>
+    </string-array>
+    
+        <string-array name="message_6_7">
+        <item>65%</item>
+        <item>Some believe that this relationship may require too much compromises on both the parts.</item>
+        <item>Dambulla</item>
+        <item>The climate of this place is moderate and can be visited at any time of the year.</item>
+    </string-array>
+    
+        <string-array name="message_6_8">
+        <item>90%</item>
+        <item>This combination is usually recommended for marriage and romance.</item>
+        <item>Nuwara Eliya</item>
+        <item>It is a mountain station at 1,868 m (6,128 ft) of altitude, in a splendid landscape.</item>
+    </string-array>
+    
+        <string-array name="message_6_9">
+        <item>85%</item>
+        <item>People in this association will enjoy a happy and peaceful time together.</item>
+        <item>Hikkaduwa</item>
+        <item>A  surfer town with its sandy beaches, sea-side resorts and discos.</item>
+    </string-array>
+    
+        <string-array name="message_7_1">
+        <item>70%</item>
+        <item>This match may also result in a life-long friendship.</item>
+        <item>Kandy</item>
+        <item>It is located in the center of the country amongst the hills of the Kandy Valley.</item>
+    </string-array>
+    
+        <string-array name="message_7_2">
+        <item>65%</item>
+        <item>The characteristics of both these numbers are almost same.</item>
+        <item>Dambulla</item>
+        <item>The climate of this place is moderate and can be visited at any time of the year.</item>
+    </string-array>
+    
+        <string-array name="message_7_3">
+        <item>45%</item>
+        <item>The two numbers are exactly opposite and some believe that they are incompatible</item>
+        <item>Batticaloa</item>
+        <item>The city is nestled in the lush greenery where landscape is surrounded by mountains offering a majestic vie during sunrise.</item>
+    </string-array>
+    
+        <string-array name="message_7_4">
+        <item>65%</item>
+        <item>Some believe that such an association may not be successful due to the lack of energy.</item>
+        <item>Dambulla</item>
+        <item>The climate of this place is moderate and can be visited at any time of the year.</item>
+    </string-array>
+    
+        <string-array name="message_7_5">
+        <item>70%</item>
+        <item>The best possible relationship will be as friends.</item>
+        <item>Kandy</item>
+        <item>It is located in the center of the country amongst the hills of the Kandy Valley.</item>
+    </string-array>
+    
+        <string-array name="message_7_6">
+        <item>65%</item>
+        <item>Some believe that this relationship may require too much compromises on both the parts.</item>
+        <item>Dambulla</item>
+        <item>The climate of this place is moderate and can be visited at any time of the year.</item>
+    </string-array>
+    
+        <string-array name="message_7_7">
+        <item>70%</item>
+        <item>Therefore, this is a very compatible pairing.</item>
+        <item>Kandy</item>
+        <item>It is located in the center of the country amongst the hills of the Kandy Valley.</item>
+    </string-array>
+    
+        <string-array name="message_7_8">
+        <item>75%</item>
+        <item>This relationship often lacks emotion.</item>
+        <item>Colombo</item>
+        <item>It is the commercial capital of the country.</item>
+    </string-array>
+    
+        <string-array name="message_7_9">
+        <item>90%</item>
+        <item>This relationship is considered to be very successful.</item>
+        <item>Nuwara Eliya</item>
+        <item>It is a mountain station at 1,868 m (6,128 ft) of altitude, in a splendid landscape.</item>
+    </string-array>
+    
+        <string-array name="message_8_1">
+        <item>75%</item>
+        <item>Both these numbers are materialistic numbers who look forward to acquiring wealth.</item>
+        <item>Colombo</item>
+        <item>It is the commercial capital of the country.</item>
+    </string-array>
+    
+        <string-array name="message_8_2">
+        <item>90%</item>
+        <item>It is believed that this is one of the most compatible love relationships according to numerology. </item>
+        <item>Nuwara Eliya</item>
+        <item>It is a mountain station at 1,868 m (6,128 ft) of altitude, in a splendid landscape.</item>
+    </string-array>
+    
+        <string-array name="message_8_3">
+        <item>55%</item>
+        <item>This association usually requires an extra effort from both sides in order to live in harmony.</item>
+        <item>Batticaloa</item>
+        <item>The city is nestled in the lush greenery where landscape is surrounded by mountains offering a majestic vie during sunrise.</item>
+    </string-array>
+    
+         <string-array name="message_8_4">
+        <item>85%</item>
+        <item>Both of these have absolutely the same nature.</item>
+        <item>Hikkaduwa</item>
+        <item>A  surfer town with its sandy beaches, sea-side resorts and discos.</item>
+    </string-array>
+    
+        <string-array name="message_8_5">
+        <item>90%</item>
+        <item>This combination brings out the best in each other.</item>
+        <item>Nuwara Eliya</item>
+        <item>It is a mountain station at 1,868 m (6,128 ft) of altitude, in a splendid landscape.</item>
+    </string-array>
+    
+         <string-array name="message_8_6">
+        <item>95%</item>
+        <item>This combination is usually recommended for marriage and romance.</item>
+        <item>Beruwela</item>
+        <item>It is most popular for its golden beach that stretches a mile and some world-class hotels.</item>
+    </string-array>
+    
+         <string-array name="message_8_7">
+        <item>80%</item>
+        <item>This association can turn into a very successful.</item>
+        <item>Bentota</item>
+        <item>Bentota is a coastal city located in the Southern Province.</item>
+    </string-array>
+    
+         <string-array name="message_8_8">
+        <item>90%</item>
+        <item>Therefore, both these people will have a drive to be very successful.</item>
+        <item>Nuwara Eliya</item>
+        <item>It is a mountain station at 1,868 m (6,128 ft) of altitude, in a splendid landscape.</item>
+    </string-array>
+    
+    <string-array name="message_8_9">
+        <item>95%</item>
+        <item>This association is considered to be very good for romance.</item>
+        <item>Beruwala</item>
+        <item>It is most popular for its golden beach that stretches a mile and some world-class hotels.</item>
+    </string-array>
+    
+         <string-array name="message_9_1">
+        <item>85%</item>
+        <item>There is a great understanding between the people .</item>
+        <item>Hikkaduwa</item>
+        <item>A  surfer town with its sandy beaches, sea-side resorts and discos.</item>
+    </string-array>
+    
+    <string-array name="message_9_2">
+        <item>80%</item>
+        <item>These two numbers act as two bodies with one soul when in a relationship.</item>
+        <item>Bentota</item>
+        <item>Bentota is a coastal city located in the Southern Province.</item>
+    </string-array>
+    
+         <string-array name="message_9_3">
+        <item>90%</item>
+        <item>Their emotions and passions are well-matched with each other.</item>
+        <item>Nuwara Eliya</item>
+        <item>It is a mountain station at 1,868 m (6,128 ft) of altitude, in a splendid landscape.</item>
+    </string-array>
+    
+         <string-array name="message_9_4">
+        <item>75%</item>
+        <item>These people are focused on the basics of building a secure and solid immediate world.</item>
+        <item>Colombo</item>
+        <item>It is the commercial capital of the country.</item>
+    </string-array>
+    
+         <string-array name="message_9_5">
+        <item>70%</item>
+        <item>These two numbers can make good business partners as well as friends.</item>
+        <item>Kandy</item>
+        <item>It is located in the center of the country amongst the hills of the Kandy Valley.</item>
+    </string-array>
+    
+         <string-array name="message_9_6">
+        <item>85%</item>
+        <item>These two people forge some form of a relationship that goes on for a lifetime.</item>
+        <item>Hikkaduwa</item>
+        <item>A  surfer town with its sandy beaches, sea-side resorts and discos.</item>
+    </string-array>
+    
+         <string-array name="message_9_7">
+        <item>75%</item>
+        <item>They are listed neutral because the relationship can go either way depending largely on spiritual beliefs.</item>
+        <item>Colombo</item>
+        <item>It is the commercial capital of the country.</item>
+    </string-array>
+    
+         <string-array name="message_9_8">
+        <item>95%</item>
+        <item>This association is considered to be very good for romance.</item>
+        <item>Beruwela</item>
+        <item>It is most popular for its golden beach that stretches a mile and some world-class hotels.</item>
+    </string-array>
+    
+         <string-array name="message_9_9">
+        <item>95%</item>
+        <item>These two become passionate lovers or very good friends with each other.</item>
+        <item>Beruwela</item>
+        <item>It is most popular for its golden beach that stretches a mile and some world-class hotels.</item>
+    </string-array>
+    
+    
+    
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Colombo">
+        <item>6.92708</item>
+        <item>79.86124</item>
+        <item>It is the commercial capital of the country.</item>
+    </string-array>
+    <string-array name="Batticaloa">
+        <item >7.71667</item>
+        <item>81.70000</item>
+         <item>The city is nestled in the lush greenery where landscape is surrounded by mountains offering a majestic vie during sunrise.</item>
+    </string-array>
+    <string-array name="Adams_Peak">
+        <item >6.80923</item>
+        <item>80.49966</item>
+        <item>The name Samanala Kanda mean Butterfly Mountain.</item>
+    </string-array>
+    <string-array name="Dambulla">
+        <item>7.85667</item>
+        <item>80.64917</item>
+        <item>The climate of this place is moderate and can be visited at any time of the year.</item>
+    </string-array>
+    <string-array name="Bentota">
+        <item>6.42000</item>
+        <item>80.00000</item>
+        <item>Bentota is a coastal city located in the Southern Province.</item>
+    </string-array>
+    <string-array name="Hikkaduwa">
+        <item>6.14069 </item>
+        <item>80.09985</item>
+        <item>A  surfer town with its sandy beaches, sea-side resorts and discos.</item>
+    </string-array>
+    <string-array name="Nuwara_Eliya">
+        <item>6.97076</item>
+        <item>80.78318</item>
+        <item>It is a mountain station at 1,868 m (6,128 ft) of altitude, in a splendid landscape.</item>
+    </string-array>
+    <string-array name="Beruwela">
+        <item>6.47793</item>
+        <item>79.98945</item>
+        <item>It is most popular for its golden beach that stretches a mile and some world-class hotels.</item>
+    </string-array>
+    <string-array name="Jaffna">
+        <item>9.66833</item>
+        <item>80.00639</item>
+        <item>Thus with a cultural heritage city this city also has some of the significant historical sites that are worth visiting.</item>
+    </string-array>
+    <string-array name="Kurunegala">
+        <item>7.48333</item>
+        <item>80.36667</item>
+        <item>Close to this city there are historical sites that are worth watching and reflect the past of this place.</item>
+    </string-array>
+    <string-array name="Kandy">
+        <item>7.28446</item>
+        <item>80.63746</item>
+         <item>It is located in the center of the country amongst the hills of the Kandy Valley.</item>
+    </string-array>
+    <string-array name="Galle">
+        <item>6.05803</item>
+        <item>80.19668</item>
+        <item> Galle is declared as World Heritage City by the UNESCO and is surrounded by beaches.</item>
+    </string-array>
+</resources>
